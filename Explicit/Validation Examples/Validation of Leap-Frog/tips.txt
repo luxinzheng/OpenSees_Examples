@@ -1,0 +1,1 @@
+We added a little codes about mass matrix in dispbeamcolumn3d.cpp to support the leap-frog method.
